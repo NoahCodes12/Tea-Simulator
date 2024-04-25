@@ -1,0 +1,13 @@
+h1 {
+    font-size: 28px;
+    text-align: center;
+    font-family:Nolan;
+    color: rgb(126, 10, 36);
+}
+canvas{
+    border: black 2px solid;
+    text-align: center;
+    vertical-align: middle;
+    width: 900px;
+    height: 600px;
+}
